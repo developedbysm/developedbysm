@@ -24,8 +24,9 @@ I'm Swastik from India, and I am Data Science student.I really enjoy learning la
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/developedbysm/developedbysm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developedbysm,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developedbysm,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developedbysm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/developedbysm/developedbysm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=developedbysm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Swastik's GitHub Stats" />
