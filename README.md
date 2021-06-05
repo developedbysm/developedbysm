@@ -1,6 +1,18 @@
-### Hi there 👋
+### Hi there 👋, Swastik Mohanty
+#### Data Scientist and Development
+![Data Scientist and Development](https://media-exp3.licdn.com/dms/image/C4E16AQFYhWV2MAPP6w/profile-displaybackgroundimage-shrink_350_1400/0/1620312120467?e=1628121600&v=beta&t=8px3uQKgtNdtY0pjCFG6ksBLgMpx572iz9_FelTB7OU)
 
-I'm Swastik from India, and I am Data Science student.I really enjoy learning languages and frameworks like python and hadoop, as well as work in project of Data Science.you check out my linkedin https://www.linkedin.com/in/swastik-mohanty/ or kaggle https://www.kaggle.com/swastikmohanty845 .
+I'm Swastik from India, and I am Data Science student.I really enjoy learning languages and frameworks like python and hadoop, as well as work in project of Data Science.
+
+Skills: PYTHON / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Data Science 
+- 📫 How to reach me: swastik845@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/developedbysm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/swastik-mohanty//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/smhac30//)  
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developedbysm)](https://github.com/anuraghazra/github-readme-stats)
 
