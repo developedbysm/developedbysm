@@ -14,18 +14,6 @@ I'm Swastik from India, and I am Data Science student.I really enjoy learning la
 - 🌱 I’m currently learning Data Science 
 - 📫 How to reach me: swastik845@gmail.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/developedbysm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/swastik-mohanty//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/smhac30//)  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/developedbysm)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=developedbysm&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developedbysm)  
-
-![GitHub metrics](https://metrics.lecoq.io/developedbysm)  
-
 ![Profile views](https://gpvc.arturio.dev/developedbysm)  
 
 ## 🔧 Technologies & Tools
