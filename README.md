@@ -14,6 +14,18 @@ Skills: PYTHON / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/developedbysm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/swastik-mohanty//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/smhac30//)  
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/developedbysm)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=developedbysm&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developedbysm)  
+
+![GitHub metrics](https://metrics.lecoq.io/developedbysm)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=developedbysm)  
+
+![Profile views](https://gpvc.arturio.dev/developedbysm)  
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developedbysm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
