@@ -32,14 +32,7 @@ I'm Swastik from India, and I am Data Science student.I really enjoy learning la
 </a>
 
 <a href="https://github.com/developedbysm/Credit-card-leads---Analytics-Vidhya---Jobathon-May-2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=developedbysm_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=developedbysm&repo=Credit-card-leads---Analytics-Vidhya---Jobathon-May-2021_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
