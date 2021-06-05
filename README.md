@@ -1,6 +1,6 @@
 ![Data Scientist and Development](https://media-exp3.licdn.com/dms/image/C4E16AQFYhWV2MAPP6w/profile-displaybackgroundimage-shrink_350_1400/0/1620312120467?e=1628121600&v=beta&t=8px3uQKgtNdtY0pjCFG6ksBLgMpx572iz9_FelTB7OU)
 
-# Hi there 👋, Swastik Mohanty
+# Swastik Mohanty 👋
 #### Data Scientist and Development
 I'm Swastik from India, and I am Data Science student.I really enjoy learning languages and frameworks like python and hadoop, as well as work in project of Data Science.
 
