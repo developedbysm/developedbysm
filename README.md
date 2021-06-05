@@ -37,8 +37,7 @@ I'm Swastik from India, and I am Data Science student.I really enjoy learning la
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=developedbysm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=developedbysm
-)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=developedbysm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- links to social media icons -->
 
