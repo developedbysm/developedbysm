@@ -29,7 +29,7 @@ I'm Swastik from India, and I am Data Science student.I really enjoy learning la
 <a href="https://github.com/developedbysm/developedbysm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=developedbysm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Swastik's GitHub Stats" />
 </a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=developbysm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />                                                            <--)](https://github.com/anuraghazra/github-readme-stats)-->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=developedbysm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />                                                        <img src=" https://github.com/anuraghazra/github-readme-stats">
 
 <a href="https://github.com/developedbysm/Credit-card-leads---Analytics-Vidhya---Jobathon-May-2021">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
