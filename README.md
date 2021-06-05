@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Swastik from India, and I am Data Science student.I really enjoy learning languages and frameworks like python and hadoop, as well as work in project of Data Science.you check out my linkedin https://www.linkedin.com/in/swastik-mohanty/ or https://www.kaggle.com/swastikmohanty845 .
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developedbysm)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **developedbysm/developedbysm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
