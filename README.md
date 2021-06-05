@@ -26,11 +26,7 @@ I'm Swastik from India, and I am Data Science student.I really enjoy learning la
 
 ![GitHub metrics](https://metrics.lecoq.io/developedbysm)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=developedbysm)  
-
 ![Profile views](https://gpvc.arturio.dev/developedbysm)  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developedbysm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **developedbysm/developedbysm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
