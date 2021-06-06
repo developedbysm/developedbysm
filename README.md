@@ -34,7 +34,7 @@ I'm a Data Science student from India. Coming with a good knowledge of executing
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=developedbysm&repo=Credit_card-leads-AV-Jobathon-May-21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-![Profile views](https://gpvc.arturio.dev/developed
+![Profile views](https://gpvc.arturio.dev/developed)
 
 
 
