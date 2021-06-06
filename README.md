@@ -1,6 +1,6 @@
 # Hello!
 I'm Swastik Mohanty.👋
-#### Data Scientist and Development
+#### Data Scientist and Developer
 I'm Swastik from India, and I am Data Science student.I really enjoy learning languages and frameworks like python and hadoop, as well as work in project of Data Science.
 
 
@@ -8,7 +8,6 @@ I'm Swastik from India, and I am Data Science student.I really enjoy learning la
 - 🌱 I’m currently learning Data Science 
 - 📫 How to reach me: swastik845@gmail.com 
 
-![Profile views](https://gpvc.arturio.dev/developedbysm)  
 
 ## 🔧 Technologies & Tools
 
@@ -29,6 +28,7 @@ I'm Swastik from India, and I am Data Science student.I really enjoy learning la
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=developedbysm&repo=Credit_card-leads-AV-Jobathon-May-21&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+![Profile views](https://gpvc.arturio.dev/developedbysm)
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
