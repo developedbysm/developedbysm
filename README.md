@@ -9,7 +9,7 @@ I'm a Data Science student from India. Coming with a good knowledge of executing
 
 
 [![Twitter Badge](https://img.shields.io/badge/@smhac30-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/smhac30)](https://twitter.com/smhac30)
-[![Linkedin Badge](https://img.shields.io/badge/-swastikmohanty-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-mohanty/) [![Mail Badge](https://img.shields.io/badge/-@smhac30-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/smhac30/) [![Mail Badge](https://img.shields.io/badge/-swastik845-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:swastik845@gmail.com)[![Kaggle Badge](https://img.shields.io/badge/-swastikmohanty845-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/swastikmohanty845)
+[![Linkedin Badge](https://img.shields.io/badge/-swastikmohanty-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-mohanty/) [![Mail Badge](https://img.shields.io/badge/-@smhac30-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/smhac30/) [![Mail Badge](https://img.shields.io/badge/-swastik845-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:swastik845@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/-swastikmohanty845-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/swastikmohanty845)
 
 
 - 🔭 I’m currently working on managing my time, and be productive. 
