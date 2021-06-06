@@ -6,6 +6,8 @@ I'm Swastik from India, and I am Data Science student.I really enjoy learning la
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://www.linkedin.com/in/swastik mohanty/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/developedbysm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/swastik mohanty/)  
 
+[<img align="left" alt="developedbysm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Science 
 - 📫 How to reach me: swastik845@gmail.com 
