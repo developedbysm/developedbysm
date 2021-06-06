@@ -12,8 +12,8 @@ I'm a Data Science student from India. Coming with a good knowledge of executing
 [![Linkedin Badge](https://img.shields.io/badge/-swastikmohanty-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-mohanty/) [![Mail Badge](https://img.shields.io/badge/-@smhac30-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/smhac30/) 
 [![Mail Badge](https://img.shields.io/badge/-swastik845-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:swastik845@gmail.com) 
 [![Kaggle Badge](https://img.shields.io/badge/-swastikmohanty845-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/swastikmohanty845)
-[![Medium Badge](https://img.shields.io/badge/Blog-Medium-darkgreen?style=flat&link=http://s)](https://medium.com/@gshashank84)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=http://s)](https://gshashank84.github.io/)
+[![Medium Badge](https://img.shields.io/badge/Blog-Medium-darkgreen?style=flat&link=http://s)](https://medium.com/@swastik845)
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=http://s)](https://.github.io/)
 
 
 - 🔭 I’m currently working on managing my time, and be productive. 
@@ -60,7 +60,7 @@ I'm a Data Science student from India. Coming with a good knowledge of executing
 #### Others
 <code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="26" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png"></code>
-<code><img height="26" src="https://www.google.com/search?q=rstudio&rlz=1C1CHBF_enIN914IN914&sxsrf=ALeKk00iTCDXVVJrDsmqW3XyholtdToDMg:1623012632425&tbm=isch&source=iu&ictx=1&fir=D3NscTpijpzW_M%252C5Fx4wIzHt0GmGM%252C%252Fm%252F0j3yh6q&vet=1&usg=AI4_-kSNVigvQdCDD1SL1SUrevSMwIrbGQ&sa=X&ved=2ahUKEwipp6-b8YPxAhWXyjgGHbCvB0EQ_B16BAhIEAI#imgrc=D3NscTpijpzW_M"></code>
+<code><img height="26" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fd33wubrfki0l68.cloudfront.net%2F62bcc8535a06077094ca3c29c383e37ad7334311%2Fa263f%2Fassets%2Fimg%2Flogo.svg&imgrefurl=https%3A%2F%2Fwww.rstudio.com%2F&tbnid=aOpt7_SeOgPKmM&vet=12ahUKEwjjkeL-8YPxAhVOWisKHSrNBMIQMygCegUIARDaAQ..i&docid=62B6-T56G0C1oM&w=800&h=281&q=rstudio&ved=2ahUKEwjjkeL-8YPxAhVOWisKHSrNBMIQMygCegUIARDaAQ"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"/></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/></code>
 
