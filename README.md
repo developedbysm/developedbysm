@@ -56,7 +56,9 @@ I'm a Data Science student from India. Coming with a good knowledge of executing
 <br/>
 
 ## Profile Visits :
+
 <br/> 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=developedbysm)
 
 <details>
