@@ -56,6 +56,7 @@ I'm a Data Science student from India. Coming with a good knowledge of executing
 <br/>
 
 ## Profile Visits :
+<br/> 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=developedbysm)
 
@@ -76,9 +77,9 @@ I love sharing knowledge, together for helping other developers .
 
 <br>
 
-<p href="https://github.com/developedbysm/developedbysm">
+<a href="https://github.com/developedbysm/developedbysm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=developedbysm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Swastik's GitHub Stats" />
-</p>
+</a>
 
 
 <!--
