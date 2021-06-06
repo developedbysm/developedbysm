@@ -26,6 +26,7 @@ I'm a Data Science student from India. Coming with a good knowledge of executing
 
 ## 🔧 Technologies & Tools :
 
+#### Languages
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
@@ -69,20 +70,20 @@ I'm a Data Science student from India. Coming with a good knowledge of executing
 <code><img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
 <code><img height="30" src="https://docs.streamlit.io/en/0.79.0/_static/favicon.png"></code>
 
-
+#### Libraries/Frameworks
 <code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
 <code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873120.png"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873107.png"></code>
 
-
+#### Cloud Platforms
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+#### Others
 ---
 
 [![Shashank's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=gshashank84&theme=react-dark&hide_border=true)](https://github.com/gshashank84/)
@@ -115,7 +116,11 @@ I love sharing knowledge, together for helping other developers .
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=developedbysm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Swastik's GitHub Stats" />
 </a>
 
+[![Swastik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=developedbysm&theme=react-dark&hide_border=true)](https://github.com/devlopedbysm/)
 
+<a href="https://github.com/devlopedbysm/">
+  <img  src="https://activity-graph.herokuapp.com/graph?username=developedbysm&theme=react-dark&hide_border=true alt="Swastik's GitHub Stats" />
+</a>
 <!--
 **developedbysm/developedbysm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
