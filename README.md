@@ -1,12 +1,8 @@
-# Swastik Mohanty 👋
+# Hello!
+I'm Swastik Mohanty.👋
 #### Data Scientist and Development
 I'm Swastik from India, and I am Data Science student.I really enjoy learning languages and frameworks like python and hadoop, as well as work in project of Data Science.
 
-## Skills: 
-* PYTHON 
-* JS 
-* HTML 
-* CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Science 
