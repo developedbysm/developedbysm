@@ -3,8 +3,7 @@ I'm Swastik Mohanty.👋
 #### Data Scientist and Developer
 I'm Swastik from India, and I am Data Science student.I really enjoy learning languages and frameworks like python and hadoop, as well as work in project of Data Science.
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />(https://www.linkedin.com/in/swastik mohanty/)  
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Science 
