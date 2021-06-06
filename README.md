@@ -86,8 +86,6 @@ I'm a Data Science student from India. Coming with a good knowledge of executing
 #### Others
 ---
 
-[![Shashank's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=gshashank84&theme=react-dark&hide_border=true)](https://github.com/gshashank84/)
-
 <br/>
 <br/>
 
@@ -118,9 +116,6 @@ I love sharing knowledge, together for helping other developers .
 
 [![Swastik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=developedbysm&theme=react-dark&hide_border=true)](https://github.com/devlopedbysm/)
 
-<a href="https://github.com/devlopedbysm/">
-  <img  src="https://activity-graph.herokuapp.com/graph?username=developedbysm&theme=react-dark&hide_border=true alt="Swastik's GitHub Stats" />
-</a>
 <!--
 **developedbysm/developedbysm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
