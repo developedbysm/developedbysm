@@ -57,34 +57,30 @@ I'm a Data Science student from India. Coming with a good knowledge of executing
 
 
 
-
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
-<code><img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png"></code>
-<code><img height="30" src="https://www.pngitem.com/pimgs/m/31-310639_pytorch-logo-png-transparent-png.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
-<code><img height="30" src="https://ih1.redbubble.net/image.405700150.0170/st,small,507x507-pad,600x600,f8f8f8.u5.jpg"></code>
-<code><img height="30" src="https://huggingface.co/favicon.ico"></code>
-<code><img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
-<code><img height="30" src="https://docs.streamlit.io/en/0.79.0/_static/favicon.png"></code>
-
 #### Libraries/Frameworks
+<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
+<code><img height="26" src="https://numpy.org/images/logos/numpy.svg"></code>
+<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
+<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"></code>
+<code><img height="26" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png"></code>
+<code><img height="26" src="https://www.pngitem.com/pimgs/m/31-310639_pytorch-logo-png-transparent-png.png"></code>
+<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
+<code><img height="26" src="https://ih1.redbubble.net/image.405700150.0170/st,small,507x507-pad,600x600,f8f8f8.u5.jpg"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"/></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/></code>
+<code><img height="26" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
+<code><img height="26" src="https://docs.streamlit.io/en/0.79.0/_static/favicon.png"></code>
+
+#### Cloud Platforms
 <code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
 <code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873120.png"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873107.png"></code>
 
-#### Cloud Platforms
+#### Others
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-#### Others
----
 
 <br/>
 <br/>
