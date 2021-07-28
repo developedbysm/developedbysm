@@ -18,7 +18,8 @@
 
 <p float="left">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=developedbysm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00" width="450"/>
-  <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=developedbysm&layout=compact&hide_border=true&title_color=142d70" width="350"/>
+   
+   <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=developedbysm&layout=compact&hide_border=true&title_color=142d70" width="350"/>
 </p>
 
 ### Languages, Tools and Packages:
