@@ -1,5 +1,5 @@
 <h1>Hi I'm Swastik<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Lakshmipriya-S&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=developedbysm&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <p align="center"><img src="https://resources.github.com/assets/img/site/octocat-help.svg" alt="Swastik Mohanty - Data Scientist"/></p>
 
